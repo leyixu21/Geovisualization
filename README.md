@@ -1,6 +1,6 @@
 # Geovisualization
 
 
-Visualizing the distribution of global conflicts from 1990 to 2020 with R Shiny
+1. Visualizing the distribution of global conflicts from 1990 to 2020 with R Shiny
 
-Constructing the website to present interactive maps
+2. Constructing the website to present interactive maps
