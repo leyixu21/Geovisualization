@@ -1,6 +1,6 @@
 # Geovisualization
 
-The course project Geovisualization constructed an interactive dashboard to visualize the distribution and statistics of global conflicts from 1990 to 2020 using R Shiny, and designed a website featuring the dashboard and background information.
+The course project Geovisualization is a group project with three group members. This project constructed an interactive dashboard to visualize the distribution and statistics of global conflicts from 1990 to 2020 using R Shiny, and designed a website featuring the dashboard and background information.
 
 ## Dashboard
 Please refer to [app + data folder](https://github.com/leyixu21/Geovisualization/tree/main/app%2Bdata) for detailed information.
