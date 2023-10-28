@@ -8,8 +8,9 @@ Please refer to [app + data folder](https://github.com/leyixu21/Geovisualization
 - [Dashboard for global conflicts distribution maps](https://conflicts-in-the-world.shinyapps.io/GEOpublish/)
 ![image](https://github.com/leyixu21/Geovisualization/assets/96665869/f8068442-b8b1-4fbf-9891-ba35bbed04d9)
 
-- [The time your life in conflicts & peace]]([https://conflicts-in-the-world.shinyapps.io/GEOpublish/](https://conflicts-in-the-world.shinyapps.io/DonutChartPublish/))
-![image](https://github.com/leyixu21/Geovisualization/assets/96665869/14bff2a8-a903-46a8-be7b-b9b9eb43245a)
+- [The time your life in conflicts & peace](https://conflicts-in-the-world.shinyapps.io/DonutChartPublish/)
+![image](https://github.com/leyixu21/Geovisualization/assets/96665869/adf3902f-bea4-4f84-a52f-da1e55158af5)
+
 
 
 ## Website
